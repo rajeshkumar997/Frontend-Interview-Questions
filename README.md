@@ -68,3 +68,7 @@ JavaScript has 3 types of scope:-
 - [ ] Function scope
 - [ ] Global scope <br/>
 https://www.w3schools.com/js/js_scope.asp#:~:text=JavaScript%20has%203%20types%20of,Global%20scope
+
+## 13- What is call, bind, apply in javascript? <br/>
+https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/
+

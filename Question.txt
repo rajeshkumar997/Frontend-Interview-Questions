@@ -1,0 +1,61 @@
+1- What are semantic elements in HTML?
+2- What is the difference between position relative and position absolute?
+3- What is a flex box?
+4- What is a box model in css?
+5- What is an event loop in javascript?
+6- What is DOM?
+7- What is hoisting in javascript?
+8- What is closure in javascript?
+9- What is callback hell ?
+10- What is the promise and how many parameters do they have?
+11- What is map, filter and reduce in javascript?
+12- How many scopes in javascript?
+13- What is call, bind, apply in javascript?
+14- What is ‘this’ keyword in javascript?
+15- What is the difference between normal function and arrow function?
+16- What is memoization in javascript?
+17- What is the rest and spread operator in javascript?
+18- What is virtual DOM?
+19- What are the advantages and disadvantages of React.js?
+20- What is one way data binding?
+21- What is redux and how does it work?
+22- What is a higher order component?
+23- What is the lifecycle method in react.js?
+24- What is the difference between the local storage and session storage?
+25- Why is React so popular?
+26- What are react fragments?
+27- What is the difference between state and props?
+28- What are hooks in react and what is the difference between useMemo and useContext hook?
+29- What is the difference between map and forEach?
+30- How can you handle errors in react?
+31- What is render prop?
+32- What are refs in react?
+33- What is the state of react?
+34- What are react portals?
+35- What is prop drilling?
+36- How to manage performance in react?
+37- What is the difference between useMemo and useCallback?
+38- What is the pure component in react?
+39- What is a higher order function?
+40- What is a prototype in javascript?
+41- What is the difference between HTML and HTML5?
+42- What is the difference between id and class?
+43- What is the difference between let, const and var?
+44- What is the media query in css?
+45- What is the difference between margin and padding?
+46- What is a callback function in javascript?
+47- What is ajax?
+48- What is the difference between null and undefined?
+49- What are the new features in ES6?
+50- What is the difference between normal function and arrow function?
+51- What is webpack?
+52- What is a controlled and uncontrolled component?
+53- What is routing in react?
+54- What is server side rendering?
+55- How to optimize the performance of web applications?
+56- What is flexbox in css?
+57- What is the difference between real DOM and virtual DOM?
+58- What is react fiber?
+59- What are the synthetic events in react?
+60- What is jest in react?
+61- 

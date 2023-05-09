@@ -44,5 +44,18 @@ Callback hell is a phenomenon that happens when multiple callbacks are nested on
 https://www.scaler.com/topics/callback-hell-in-javascript/
 
 ## 10- What is the promise and how many parameters do they have?
+A promise is an object that may produce a single value some time in the future: either a resolved value, or a reason that it’s not resolved (e.g., a network error occurred). A promise may be in one of 3 possible states: fulfilled, rejected, or pending. Promise users can attach callbacks to handle the fulfilled value or the reason for rejection.
 https://www.learnhowtoprogram.com/intermediate-javascript/asynchrony-and-apis/introduction-to-promises#:~:text=A%20promise%20generally%20takes%20a,async%20code%20goes%20here%20%7D)%3B
 
+## 11- What is map, filter and reduce in javascript?
+Map, reduce, and filter are all array methods in JavaScript. Each one will iterate over an array and perform a transformation or computation. Each will return a new array based on the result of the function.
+https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/
+
+## 12- How many scopes in javascript?
+Scope determines the accessibility (visibility) of variables.
+
+JavaScript has 3 types of scope:-
+- [ ] Block scope
+- [ ] Function scope
+- [ ] Global scope
+https://www.w3schools.com/js/js_scope.asp#:~:text=JavaScript%20has%203%20types%20of,Global%20scope

@@ -90,3 +90,14 @@ Memoization in javascript is an optimization technique that stores the results o
 https://www.freecodecamp.org/news/memoization-in-javascript-and-react/
 
 ## 17- What is the rest and spread operator in javascript?
+The rest operator (…) allows us to call a function with any number of arguments and then access those excess arguments as an array. The rest operator also allows us in destructuring array or objects.
+The spread operator (…) allows us to expand an iterable like array into its individual elements. <br />
+https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators/
+
+## 18- What is virtual DOM?
+DOM stands for Document Object Model it is the structural representation of all nodes in an HTML document DOM represents the Ul of your applications.  DOM manipulation is required to dynamically change the content of a web page. DOM is an interface that allows the script to update the content, style, and structure of the document. <br />
+https://www.geeksforgeeks.org/difference-between-virtual-dom-and-real-dom/
+
+## 19- What are the advantages and disadvantages of React.js?
+
+

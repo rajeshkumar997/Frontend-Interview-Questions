@@ -77,3 +77,16 @@ Apply is very similar to the call function. The only difference is that in apply
 Bind is a function that helps you create another function that you can execute later with the new context of this that is provided.
 https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/
 
+## 14- What is ‘this’ keyword in javascript?
+“This” keyword refers to an object that is executing the current piece of code. It references the object that is executing the current function. If the function being referenced is a regular function, “this” references the global object. <br />
+https://www.freecodecamp.org/news/the-this-keyword-in-javascript/
+
+## 15- What is the difference between normal function and arrow function?
+Regular functions created using function declarations or expressions are constructible and callable. Since regular functions are constructible, they can be called using the new keyword. However, the arrow functions are only callable and not constructible, i.e arrow functions can never be used as constructor functions. <br />
+https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/
+
+## 16- What is memoization in javascript?
+Memoization in javascript is an optimization technique that stores the results of function calls in a temporary data structure and then retrieves the results whenever the stored result is needed in the program. By doing this, the execution time is reduced and the CPU performance is increased. <br />
+https://www.freecodecamp.org/news/memoization-in-javascript-and-react/
+
+## 17- What is the rest and spread operator in javascript?

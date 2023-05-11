@@ -126,5 +126,11 @@ React, compared to other popular frontend frameworks like Angular & Vue, is much
 https://www.peerbits.com/blog/reasons-to-choose-reactjs-for-your-web-development-project.html#:~:text=It's%20easy%20to%20learn,businesses%20quickly%20build%20their%20projects.
 
 ## 26- What are react fragments?
+React Fragments allow you to wrap or group multiple elements without adding an extra node to the DOM. This can be useful when rendering multiple child elements/components in a single parent component. <br/>
+https://legacy.reactjs.org/docs/fragments.html
 
-https://www.komododigital.co.uk/insights/9-reasons-why-react-is-still-popular-in-2021/
+## 27- What is the difference between state and props?
+https://www.geeksforgeeks.org/what-are-the-differences-between-props-and-state/
+
+## 28- What are hooks in react and what is the difference between useMemo and useContext hook?
+

@@ -133,4 +133,6 @@ https://legacy.reactjs.org/docs/fragments.html
 https://www.geeksforgeeks.org/what-are-the-differences-between-props-and-state/
 
 ## 28- What are hooks in react and what is the difference between useMemo and useContext hook?
+https://www.w3schools.com/react/react_usememo.asp
 
+## 29- What is the difference between map and forEach?

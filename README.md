@@ -112,3 +112,19 @@ https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained
 ## 22- What is a higher order component?
 A higher-order component is a function that takes in a component and returns a new component. <br />
 https://blog.logrocket.com/understanding-react-higher-order-components/#:~:text=A%20higher%2Dorder%20component%20is,will%20be%20the%20enhanced%20component
+
+## 23- What is the lifecycle method in react.js?
+Each component in React has a lifecycle which you can monitor and manipulate during its three main phases. The three phases are: Mounting, Updating, and Unmounting. <br />
+https://blog.logrocket.com/react-lifecycle-methods-tutorial-examples/
+
+## 24- What is the difference between the local storage and session storage?
+The difference between sessionStorage and localStorage is that localStorage data does not expire, whereas sessionStorage data is cleared when the browser tab is closed. <br />
+https://www.geeksforgeeks.org/difference-between-local-storage-session-storage-and-cookies/
+
+## 25- Why is React so popular?
+React, compared to other popular frontend frameworks like Angular & Vue, is much easier to learn. In fact, it's one of the main reasons why React gained so much traction in little time. It helps businesses quickly build their projects. <br />
+https://www.peerbits.com/blog/reasons-to-choose-reactjs-for-your-web-development-project.html#:~:text=It's%20easy%20to%20learn,businesses%20quickly%20build%20their%20projects.
+
+## 26- What are react fragments?
+
+https://www.komododigital.co.uk/insights/9-reasons-why-react-is-still-popular-in-2021/

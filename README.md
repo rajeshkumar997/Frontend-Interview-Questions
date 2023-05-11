@@ -99,5 +99,16 @@ DOM stands for Document Object Model it is the structural representation of all 
 https://www.geeksforgeeks.org/difference-between-virtual-dom-and-real-dom/
 
 ## 19- What are the advantages and disadvantages of React.js?
+https://massivepixel.io/blog/react-advantages-disadvantages/
 
+## 20- What is one way data binding?
+React is an open-source JavaScript library for building user interfaces or UI components. It is widely used to design simple views for each state in the application, and efficiently update and render just the right components when the data changes. React supports one-way data binding which means a unidirectional data-flow. <br/>
+https://medium.com/@tangrianand/understanding-one-way-data-binding-in-react-77fdb13db312
 
+## 21- What is redux and how does it work?
+https://redux.js.org/tutorials/fundamentals/part-1-overview    <br/>
+https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/
+
+## 22- What is a higher order component?
+A higher-order component is a function that takes in a component and returns a new component. <br />
+https://blog.logrocket.com/understanding-react-higher-order-components/#:~:text=A%20higher%2Dorder%20component%20is,will%20be%20the%20enhanced%20component

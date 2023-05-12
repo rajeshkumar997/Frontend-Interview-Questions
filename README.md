@@ -157,4 +157,5 @@ Refs is the shorthand used for references in React. It is similar to keys in Rea
 https://blog.logrocket.com/complete-guide-react-refs/
 
 ## 33- What is the state of react?
-The state is a built-in React object that is used to contain data or information about the component. A component's state can change over time; whenever it changes, the component re-renders.
+The state is a built-in React object that is used to contain data or information about the component. A component's state can change over time; whenever it changes, the component re-renders. <br />
+https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/

@@ -136,3 +136,25 @@ https://www.geeksforgeeks.org/what-are-the-differences-between-props-and-state/
 https://www.w3schools.com/react/react_usememo.asp
 
 ## 29- What is the difference between map and forEach?
+https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/
+
+## 30- How can you handle errors in react?
+https://dev.to/jyotishman/how-to-handle-errors-effectively-in-react-js-dl2
+
+## 31- What is render prop?
+The term “render prop” refers to a technique for sharing code between React components using a prop whose value is a function.
+
+A component with a render prop takes a function that returns a React element and calls it instead of implementing its own render logic.
+```
+<DataProvider render={data => (
+  <h1>Hello {data.target}</h1>
+)}/>
+```
+https://levelup.gitconnected.com/understanding-react-render-props-by-example-71f2162fd0f2#:~:text=The%20term%20%E2%80%9Crender%20prop%E2%80%9D%20refers,whose%20value%20is%20a%20function.&text=By%20using%20a%20prop%20to,being%20applied%20to%20the%20UI.
+
+## 32- What are refs in react?
+Refs is the shorthand used for references in React. It is similar to keys in React. It is an attribute which makes it possible to store a reference to particular DOM nodes or React elements. It provides a way to access React DOM nodes or React elements and how to interact with it. <br/>
+https://blog.logrocket.com/complete-guide-react-refs/
+
+## 33- What is the state of react?
+The state is a built-in React object that is used to contain data or information about the component. A component's state can change over time; whenever it changes, the component re-renders.

@@ -159,3 +159,14 @@ https://blog.logrocket.com/complete-guide-react-refs/
 ## 33- What is the state of react?
 The state is a built-in React object that is used to contain data or information about the component. A component's state can change over time; whenever it changes, the component re-renders. <br />
 https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/
+
+## 34- What are react portals?
+React Portals are an advanced concept that allows developers to render their elements outside the React hierarchy tree without comprising the parent-child relationship between components. Usually, typical React components are located within the DOM. <br />
+https://blog.logrocket.com/learn-react-portals-example/#:~:text=React%20Portals%20are%20an%20advanced,are%20located%20within%20the%20DOM.
+
+## 35- What is prop drilling?
+Prop drilling refers to the process of sending props from a higher-level component to a lower-level component. <br/>
+https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/ <br/>
+https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/ 
+
+## 36- How to manage performance in react?

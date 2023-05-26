@@ -190,3 +190,9 @@ https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/
 - [ ] It fires at the end of all DOM mutations. It's best to use useEffect as much as possible over this one as the useLayoutEffect fires synchronously.
 ## useDebugValue: 
 - [ ] Helps to display a label in React DevTools for custom hooks.
+
+## 38- What is the difference between useMemo and useCallback?
+  https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/
+
+## 39- What is the pure component in react?
+  https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/

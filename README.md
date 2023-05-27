@@ -207,4 +207,14 @@ https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/
   
 ## 42- What is the difference between HTML and HTML5?
    https://www.geeksforgeeks.org/difference-between-html-and-html5/
+   </br>
+   https://www.javatpoint.com/html-vs-html5
+
+## 43- What is the difference between id and class?
+   https://www.geeksforgeeks.org/difference-between-id-and-class-attributes-in-html/
+   </br>
+   https://www.javatpoint.com/css-class-vs-id
+   
+   
+     
 

@@ -196,3 +196,15 @@ https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/
 
 ## 39- What is the pure component in react?
   https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/
+
+## 40- What is a higher order function?
+   https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/
+     </br>
+   https://codepen.io/Mo-SlimedGhost/pen/abWeqXq
+   
+## 41- What is a prototype in javascript?
+   https://www.geeksforgeeks.org/prototype-in-javascript/
+  
+## 42- What is the difference between HTML and HTML5?
+   https://www.geeksforgeeks.org/difference-between-html-and-html5/
+

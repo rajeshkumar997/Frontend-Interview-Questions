@@ -52,6 +52,26 @@ https://www.scaler.com/topics/callback-hell-in-javascript/
 
 ## 10- What is the promise and how many parameters do they have?
 A promise is an object that may produce a single value some time in the future: either a resolved value, or a reason that it’s not resolved (e.g., a network error occurred). A promise may be in one of 3 possible states: fulfilled, rejected, or pending. Promise users can attach callbacks to handle the fulfilled value or the reason for rejection.
+```js
+// a promise
+let promise = new Promise((resolve, reject) => {
+  setTimeout(() => {
+    resolve('promise resolved');
+  }, 4000);
+});
+// async function
+async function asyncFunc() {
+  try {
+    // wait util the promise resolved
+    let result = await promise();
+    console.log(result);
+  } catch (error) {
+    console.log(error);
+  }
+}
+// calling the async function
+asyncFunc(); //promise resolved
+```
 <br/>
 https://www.learnhowtoprogram.com/intermediate-javascript/asynchrony-and-apis/introduction-to-promises#:~:text=A%20promise%20generally%20takes%20a,async%20code%20goes%20here%20%7D)%3B
 

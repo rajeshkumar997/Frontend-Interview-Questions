@@ -235,6 +235,21 @@ https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/
    </br>
    https://www.javatpoint.com/css-class-vs-id
    
+## 44- What is the difference between let, const and var?  
+   https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/#:~:text=If%20you%20never%20want%20a,is%20the%20keyword%20for%20you
+   </br>
+   https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/
+    </br>
+   https://blog.webdevsimplified.com/2020-01/var-vs-let-vs-const/
    
-     
-
+## 45- What is the media query in css?
+   https://www.w3schools.com/css/css3_mediaqueries.asp
+   </br>
+   https://www.geeksforgeeks.org/css-media-queries/
+   
+## 46- What is the difference between margin and padding?  
+   https://www.geeksforgeeks.org/css-padding-vs-margin/
+   </br>
+   https://hackr.io/blog/margin-vs-padding
+   </br>
+   https://byjus.com/gate/difference-between-margin-and-padding/ 

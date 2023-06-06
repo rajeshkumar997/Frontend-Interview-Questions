@@ -252,4 +252,34 @@ https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/
    </br>
    https://hackr.io/blog/margin-vs-padding
    </br>
-   https://byjus.com/gate/difference-between-margin-and-padding/ 
+   https://byjus.com/gate/difference-between-margin-and-padding/
+   
+   
+## 47- What is a callback function in javascript?
+   https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+   </br>
+   https://www.simplilearn.com/tutorials/javascript-tutorial/callback-function-in-javascript
+   </br>
+   https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/
+   
+## 48- What is ajax?
+   https://www.w3schools.com/whatis/whatis_ajax.asp
+   </br>
+   https://www.javatpoint.com/ajax-tutorial
+   
+## 49- What is the difference between null and undefined?
+   https://wesbos.com/javascript/01-the-basics/types-null-and-undefined
+   </br>
+   https://www.javatpoint.com/null-vs-undefined
+   
+## 50- What are the new features in ES6?
+   https://www.w3schools.com/js/js_es6.asp
+   </br>
+   https://www.boardinfinity.com/blog/top-10-features-of-es6/
+   </br>
+   https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/
+    
+
+   
+   
+   

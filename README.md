@@ -34,6 +34,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop
 The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
 <br/>
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+</br>
+https://www.tutorialstonight.com/js/js-dom-introduction
 
 ## 7- What is hoisting in javascript?
 In JavaScript, hoisting allows you to use functions and variables before they're declared.

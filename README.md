@@ -280,7 +280,9 @@ https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/
    https://www.boardinfinity.com/blog/top-10-features-of-es6/
    </br>
    https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/
-    
+
+## 51- For vs forEach() vs for/in vs for/of in JavaScript?
+      https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html
 
    
    

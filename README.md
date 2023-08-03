@@ -152,9 +152,31 @@ React Fragments allow you to wrap or group multiple elements without adding an e
 https://legacy.reactjs.org/docs/fragments.html
 
 ## 27- What is the difference between state and props?
+## Props 
+- [ ] The Data is passed from one component to another.
+- [ ] It is Immutable (cannot be modified).
+- [ ] Props can be used with state and functional components.
+- [ ] Props are read-only.
+## STATE 
+- [ ] The Data is passed within the component only.
+- [ ] It is Mutable ( can be modified).
+- [ ] The state can be used only with the state components/class component
+- [ ] The state is both read and write.
 https://www.geeksforgeeks.org/what-are-the-differences-between-props-and-state/
 
 ## 28- What are hooks in react and what is the difference between useMemo and useContext hook?
+Hooks allow function components to have access to state and other React features. Because of this, class components are generally no longer needed.
+
+There are 3 rules for hooks:
+- [ ] Hooks can only be called inside React function components.
+- [ ] Hooks can only be called at the top level of a component.
+- [ ] Hooks cannot be conditional
+## Note: Hooks will not work in React class components.
+The useMemo and useCallback Hooks are similar. The main difference is that useMemo returns a memoized value and useCallback returns a memoized function.
+## useContext 
+React Context is a way to manage state globally.
+It can be used together with the useState Hook to share state between deeply nested components more easily than with useState alone.
+<br />
 https://www.w3schools.com/react/react_usememo.asp
 
 ## 29- What is the difference between map and forEach?

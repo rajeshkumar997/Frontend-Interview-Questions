@@ -182,6 +182,7 @@ https://www.w3schools.com/react/react_usememo.asp
 
 ## 29- What is the difference between map and forEach?
  The map() method is used to transform the elements of an array, whereas the forEach() method is used to loop through the elements of an array.
+<br />
 https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/
 
 ## 30- How can you handle errors in react?

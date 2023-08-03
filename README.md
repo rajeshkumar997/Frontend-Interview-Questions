@@ -162,6 +162,7 @@ https://legacy.reactjs.org/docs/fragments.html
 - [ ] It is Mutable ( can be modified).
 - [ ] The state can be used only with the state components/class component
 - [ ] The state is both read and write.
+<br />
 https://www.geeksforgeeks.org/what-are-the-differences-between-props-and-state/
 
 ## 28- What are hooks in react and what is the difference between useMemo and useContext hook?

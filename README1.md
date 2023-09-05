@@ -99,5 +99,5 @@ export default Counter;
 - [ ] Component-Internal: State is specific to a component and is not accessible or modifiable by other components. It represents the component's private data.
 - [ ] Used for Managing Component Data: State is primarily used for managing data that can change over time within a component, such as user input, timers, or component-specific data.
 
-# Can you describe the lifecycle methods in React.js and when they are used?
+# 3- Can you describe the lifecycle methods in React.js and when they are used?
 

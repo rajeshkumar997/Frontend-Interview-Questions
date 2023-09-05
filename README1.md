@@ -101,3 +101,100 @@ export default Counter;
 
 # 3- Can you describe the lifecycle methods in React.js and when they are used?
 
+In React.js, class components used to have a set of lifecycle methods that allowed developers to hook into different phases of a component's lifecycle. These methods provided opportunities to perform actions at specific points during the component's existence. However, with the introduction of React hooks in React 16.8, functional components can also replicate this behavior using the useEffect hook.
+
+Here are some of the most commonly used lifecycle methods in class components and their functional component equivalents with hooks:
+
+## Class Component Lifecycle Methods:
+
+1- componentDidMount:
+
+- [ ] Called after the component is rendered for the first time.
+- [ ] Used for actions like data fetching, setting up subscriptions, or initializing third-party libraries.
+```js
+class MyComponent extends React.Component {
+  componentDidMount() {
+    // Perform actions after the component is mounted.
+  }
+
+  render() {
+    // Render component UI.
+  }
+}
+```
+Functional Component Equivalent with useEffect:
+```js
+import React, { useEffect } from 'react';
+
+function MyComponent() {
+  useEffect(() => {
+    // Perform actions after the component is mounted.
+  }, []);
+
+  return (
+    // Render component UI.
+  );
+}
+
+```
+2- componentDidUpdate:
+
+- [ ] Called after the component's state or props change and the component re-renders.
+- [ ] Used for actions that depend on the updated data.
+```js
+class MyComponent extends React.Component {
+  componentDidUpdate(prevProps, prevState) {
+    // Perform actions when the component updates.
+  }
+
+  render() {
+    // Render component UI.
+  }
+}
+
+```
+Functional Component Equivalent with useEffect:
+```js
+import React, { useEffect } from 'react';
+
+function MyComponent(props) {
+  useEffect(() => {
+    // Perform actions when the component updates.
+  }, [props]);
+
+  return (
+    // Render component UI.
+  );
+}
+```
+3- componentWillUnmount:
+
+- [ ] Called just before the component is removed from the DOM.
+- [ ] Used for cleanup tasks like unsubscribing from subscriptions and preventing memory leaks.
+```js
+class MyComponent extends React.Component {
+  componentWillUnmount() {
+    // Perform cleanup before the component is unmounted.
+  }
+
+  render() {
+    // Render component UI.
+  }
+}
+```
+Functional Component Equivalent with useEffect:
+```js
+import React, { useEffect } from 'react';
+
+function MyComponent() {
+  useEffect(() => {
+    return () => {
+      // Perform cleanup before the component is unmounted.
+    };
+  }, []);
+
+  return (
+    // Render component UI.
+  );
+}
+```
